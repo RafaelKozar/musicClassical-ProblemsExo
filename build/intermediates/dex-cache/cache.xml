@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\8abb6f39e9660827d4340afb10eb6502071bf333\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa78aef636a3244ae8973ca9bb0f7b836e216c3b">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13d30e05d71c62a9cc58680c996e954de3ba84eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\16e4697e3db5287521c430cdbcaae412de8a76e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63d36c312414cfb92564017b0764fc64c8321fae">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75e14ea96de4966d65211be41b21bb1e551a9438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\ecd6e67afe52bc5def92e7d4ba8b0777e6c91664\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20fa9888472a66e49eca47436f5706225947ee42">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d215817201d03748fa0a2f34791bb4c30bad5e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c90edc92ba63753e987cfd3a4f9feaa4bf24c1d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\1dc514fd340385657c2195f2d15b50d50cf894d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fec1885e552daefad93872f1840102afc25018ad">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d55920d5c1acfc72a9d6f64de863d52b05a6474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c90edc92ba63753e987cfd3a4f9feaa4bf24c1d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="812ee50dd07257c924202ed16ba56b65bc4bd9dd">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ab7b6fb6e4ad9c0aa8ac818be4971ac11f4aea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\c47a849ff3964245c08600d0404e233fe5f80881\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="026b8b454ba5a0265954502f91d26d58da1bd47d">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6cb5e7bc8cb6e93ddbe132f6f916e5baf739f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\.android\build-cache\53704ddad31992c708735076e638841036e75af3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4dc25a35bc7ddb36ba37310bcc0b02b9fe69904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e048f107536cc763426d028113d2f239b75c96b">
+        <dex dex="C:\Users\Rafael Kozar\Downloads\Udacity-Android\ClassicalMusicQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ab7b6fb6e4ad9c0aa8ac818be4971ac11f4aea7\classes.dex" />
+    </item>
+
+</items>
